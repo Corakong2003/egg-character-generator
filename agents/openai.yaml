@@ -1,0 +1,7 @@
+interface:
+  display_name: "生成鸡蛋角色3.0"
+  short_description: "将人物或小动物照片转换为高辨识度鸡蛋角色"
+  default_prompt: "使用 $generate-egg-character，把我提供的人物或小动物照片作为图C，直接生成鸡蛋角色。"
+
+policy:
+  allow_implicit_invocation: true
