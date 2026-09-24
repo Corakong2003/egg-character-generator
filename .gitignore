@@ -1,0 +1,8 @@
+# User-supplied identity images and generated outputs must never be committed.
+inputs/
+user-images/
+outputs/
+private/
+*.local.*
+.DS_Store
+
